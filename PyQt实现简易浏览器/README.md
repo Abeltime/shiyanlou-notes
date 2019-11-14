@@ -1,0 +1,1 @@
+记得预先安装python3-pyqt5和QtWebKit
